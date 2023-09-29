@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Brundes 😁
+## Welcome to Brundes's GitHub page! 😁
 
  <div>
    <a href="https://github.com/brundes">
